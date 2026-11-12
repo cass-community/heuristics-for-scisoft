@@ -109,7 +109,8 @@ Ensure your tool adapts to the full range of user needs, scales, and skill level
       
 ## 7 - Direct Attention Judiciously
 Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. Visual design should be consistent, not distracting, and used to focus users' attention where it is most needed.
-- Have all distracting, unnecessary elements been removed? 
+- Have all distracting, unnecessary elements been removed?
+- Do users' eyes easily rest on the most important information?
 - Are symbols and images used to convey meaning and not just decorate?
 - Is the visual design and content focused on the essentials?
 - Do you use size, contrast, and proximity to focus users' attention on the most important content?
