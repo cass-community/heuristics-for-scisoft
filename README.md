@@ -32,6 +32,9 @@ Heuristic evaluation is an exercise that helps you step out of your usual perspe
 
 You can repeat this heuristic evaluation exercise at regular intervals, ensuring that as your product evolves, you continue to deliver good user experiences.
 
+***Using an AI agent:***
+You can instruct your agent to use this repo to conduct a heuristic evaluation on your behalf—initial tests suggest that it will do a decent job. If evaluating a GUI, you must also include screenshots of the interface so that the agent can accurately assess heuristic 7, [Direct Attention Judiciously](/heuristic-eval.md#7---direct-attention-judiciously). 
+
 **Assigning severity rankings:**
 
 You may choose to assign a severity to the issues you identify. You can use your own system for this, or ours:
